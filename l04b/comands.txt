@@ -1,0 +1,61 @@
+    1  ls
+    2  mkdir l04b
+    3  cd l04b
+    4  ls
+    5  npm init
+    6  ls
+    7  touch index.js
+    8  stnpm start
+    9  npm start
+   10  touch index.js
+   11  npm start
+   12  npm install cool-ascii-faces
+   13  npm install cool-ascii-faces --save
+   14  npm start
+   15  npm
+   16  ls
+   17  git init
+   18  ls
+   19  cd..
+   20  clear
+   21  exit
+   22  ls
+   23  git init
+   24  touch .gitignore
+   25  ls
+   26  ls -a
+   27  git add .
+   28  git commit -m "first commit of lab04b"
+   29  ls
+   30  git remote add origin https://github.com/pabgarmar/sos1819-labs.git
+   31  git push -u origin master
+   32  cd l04b
+   33  history > comands.txt
+   34  git add .
+   35  git commit -m "second commit of lab04b"
+   36  git push
+   37  git push -u origin master
+   38  history > comands.txt
+   39  git add .
+   40  git commit -m "second commit of lab04b"
+   41  git push -u origin master
+   42  history > comands.txt
+   43  git add .
+   44  git commit -m "second commit of lab04b" 
+   45  ls
+   46  git add .
+   47  git commit -m "second commit of lab04b" 
+   48  git push -u origin master
+   49  git remote add origin https://github.com/pabgarmar/sos1819-labs.git
+   50  ls
+   51  history > comands.txt
+   52  git add .
+   53  git commit -m "second commit of lab04b" 
+   54  ls
+   55  git push -u origin master
+   56  history
+   57  history > comands.txt
+   58  git add .
+   59  git commit -m "second commit of lab04b" 
+   60  git push -u origin master
+   61  history > comands.txt
